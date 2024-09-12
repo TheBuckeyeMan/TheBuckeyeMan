@@ -15,7 +15,7 @@ began to explore the world of coding and well.......
  - Python
  - Java
  - Terraform(IAC)
- - VBA(Visual Vasic for Application)
+ - VBA(Visual Basic for Application)
  - Javascript
  - Html
  - CSS
